@@ -1,4 +1,4 @@
-package est.ups.edu.ec.rmi;
+package rmi;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
